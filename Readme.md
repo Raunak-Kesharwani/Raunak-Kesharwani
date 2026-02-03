@@ -111,25 +111,25 @@ Hi, I'm <span style="color:#205affab;">Raunak Kesharwani</span> 👋
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/raunakkesharwani" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    <img src="assets/linkedin.svg"
          width="34" hspace="8"/>
   </a>&nbsp;
 
   <!-- X (Twitter) -->
   <a href="https://x.com/Rraunak_" target="_blank" rel="noopener noreferrer">
-    <img src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png"
+    <img src="assets/twitter.svg"
          width="32" hspace="8"/>
   </a>&nbsp;
   
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/47wKiLAWSU/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg"
+    <img src="assets/leetcode.svg"
          width="34" hspace="8"/>
   </a>&nbsp;
 
   <!-- Kaggle -->
   <a href="https://www.kaggle.com/raunakkesharwani" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kaggle.svg"
+    <img src="assets/kaggle.svg"
          width="34" hspace="8"/>
   </a>&nbsp;
   
